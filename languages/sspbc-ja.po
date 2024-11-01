@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SS Posts By Category 1.0.0\n"
+"POT-Creation-Date: 2013-09-20 09:50+0900\n"
+"PO-Revision-Date: 2013-09-20 11:01+0900\n"
+"Last-Translator: stk2k <stk2k@sazysoft.com>\n"
+"Language-Team: stk2k <stk2k@sazysoft.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "No posts yet"
+msgstr "記事がありません。"
+
